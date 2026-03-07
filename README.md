@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a Software Engineer and CS student at AGH University of Cracow, with 5+ years of experience. 
+I've been writing code since primary school — competing in international programming competitions.
+I've shipped commercial products, completed multiple internships, and built systems running in production. 
+
+Rector's scholarship recipient · Graduated with honours from a 5-year IT technical high school · Programing contest laureate.
+
 <!--
 **Szyplc/Szyplc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
