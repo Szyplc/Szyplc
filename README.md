@@ -40,7 +40,7 @@ Rector's scholarship recipient · Graduated with honours from a 5-year IT techni
 ### 🔗 Links
 
 - [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
-- [![LeetCode]([https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/HG7PG5zlbX/))
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/HG7PG5zlbX)
 
 ### 📜 Certifications
 
